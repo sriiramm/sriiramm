@@ -1,4 +1,4 @@
-# Hi, I'm Sai Sriram Garapati 👋  
+# Hi, I'm Sai Sriram 👋  
 
 🚀 **Data Scientist | Machine Learning Engineer | Python Developer**  
 🎓 Master’s in Data Science  
@@ -73,7 +73,7 @@ Each project includes:
 
 ## 🌐 Let’s Connect  
 
-- 💼 **LinkedIn:** [Sai Sriram Garapati](https://www.linkedin.com/in/saisriramgarapati/)  
+- 💼 **LinkedIn:** [Sai Sriram](https://www.linkedin.com/in/saisriramm/)  
 - 💻 **GitHub:** [github.com/sriiramm](https://github.com/sriiramm)  
 
 📩 Feel free to reach out if you’d like to discuss my projects, collaborate, or explore job opportunities.
